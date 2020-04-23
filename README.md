@@ -8,6 +8,5 @@ pip install youtube_search
 pip install youtube_dl
 ```
 
-도움 요청은
 !   "   A Minibox#3466
-여기로
+> 잘 

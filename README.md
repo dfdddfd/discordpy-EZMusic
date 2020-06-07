@@ -10,8 +10,7 @@ pip install youtube_dl
 ffmpeg 설치필요
 ```
 
-개발자
-Minibox#1111
+> 개발자 `Minibox#1111`
 ---
 ## 라이선스
 #### 이 코드에는 특별한 라이선스는 없지만, 이 규칙은 꼭 지켜주세요
